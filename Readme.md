@@ -1,6 +1,6 @@
 # Simon Says Game
 
-![Simon Says Game]!(https://github.com/ashutosh720/Simon-Says/assets/112875409/9554d965-758f-4786-b74b-b2316c91e86f)
+![Simon Says Game](https://github.com/ashutosh720/Simon-Says/assets/112875409/9554d965-758f-4786-b74b-b2316c91e86f)
 
 
 Welcome to the Simon Says Game! This is a classic memory and pattern recognition game built using HTML, CSS, and JavaScript. Test your memory and concentration skills by following the pattern that Simon creates. The game gets progressively challenging as you successfully repeat longer sequences.
