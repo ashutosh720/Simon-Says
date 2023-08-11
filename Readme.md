@@ -19,7 +19,7 @@ Welcome to the Simon Says Game! This is a classic memory and pattern recognition
 
 ## Demo
 
-Check out the demo clip of the game: ![Simon Says Game](https://github.com/ashutosh720/Simon-Says/blob/main/Simon%20Says/SimonSays.mp4)
+Check out the demo clip of the game: [Simon Says Game](https://github.com/ashutosh720/Simon-Says/blob/main/Simon%20Says/SimonSays.mp4)
 
 ## Features
 
