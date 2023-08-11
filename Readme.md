@@ -19,14 +19,13 @@ Welcome to the Simon Says Game! This is a classic memory and pattern recognition
 
 ## Demo
 
-Check out the live demo of the game: ![Simon Says Game D
+Check out the demo clip of the game: ![Simon Says Game](https://github.com/ashutosh720/Simon-Says/blob/main/Simon%20Says/SimonSays.mp4)
 
 ## Features
 
 - Responsive design that works well on both desktop and mobile devices.
-- Engaging audio and visual feedback for correct and incorrect moves.
+- Engaging visual feedback for correct and incorrect moves.
 - Increasing difficulty with each successful round.
-- Strict and normal gameplay modes.
 - High score tracking.
 
 ## Getting Started
@@ -42,31 +41,29 @@ To run the Simon Says Game locally on your machine, follow these instructions.
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/simon-says-game.git
+   git clone https://github.com/ashutosh720/Simon-Says.git
    ```
 
 2. Navigate to the project directory:
 
    ```bash
-   cd simon-says-game
+   cd Simon-Says
    ```
 
 3. Open `index.html` in your preferred web browser.
 
 ## How to Play
 
-1. Choose your preferred difficulty level (Strict or Normal).
-2. Click the "Start" button to begin the game.
-3. Simon will play a sequence of colors and sounds.
-4. Repeat the sequence by clicking the colors in the same order.
-5. If you make a mistake in "Strict" mode, the game restarts. In "Normal" mode, you can try the sequence again.
+1. Press any key to begin the game.
+2. Simon will play a sequence of colors.
+3. Repeat the sequence by clicking the colors in the same order.
+4. If you make a mistake in, the game restarts.
 
 ## Technologies Used
 
 - HTML5
 - CSS3
 - JavaScript
-- Audio API
 
 ## Contributing
 
@@ -78,10 +75,6 @@ Contributions are welcome! If you'd like to contribute to the project, please fo
 4. Commit your changes and push to your fork.
 5. Create a pull request with a detailed description of your changes.
 
-## License
 
-This project is licensed under the [MIT License](LICENSE).
-
----
 
 Have fun playing Simon Says and challenging your memory skills! If you encounter any issues or have suggestions for improvements, please feel free to open an issue or contribute to the project. Happy gaming!
